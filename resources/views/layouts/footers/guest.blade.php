@@ -5,7 +5,7 @@
       <script>
         document.write(new Date().getFullYear())
       </script>, made with <i class="material-icons">favorite</i> by
-      <a href="" target="_blank"></a>Roy Hayek<a href="" target="_blank"></a>.
+      <a href="georgethedeveloper.com" target="_blank"></a>mindberzerk<a href="" target="_blank"></a>.
     </div>
   </div>
 </footer>
